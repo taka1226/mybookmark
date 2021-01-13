@@ -5,7 +5,8 @@
   "permissions": [
     "bookmarks",
     "history",
-    "storage"
+    "storage",
+    "tabs"
   ],
   "browser_action": {
       "default_title": "My Bookmarks",
